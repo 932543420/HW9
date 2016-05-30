@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/herlitzj/cs290_database.git"
+    "url": "git+https://https://github.com/932543420/HW9.git"
   },
-  "author": "Jeff Herlitz",
+  "author": "Jia",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/herlitzj/cs290_database/issues"
+    "url": "https://https://github.com/932543420/HW9/issues"
   },
-  "homepage": "http://52.36.84.159:3000/",
+  "homepage": "http://2.32.45.93:3009/",
   "dependencies": {
     "body-parser": "^1.15.1",
     "express": "^4.13.4",
