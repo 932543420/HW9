@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 var bodyParser = require('body-parser');
 var handlebars = require('express-handlebars').create({defaultLayout:'main'});
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 3009;
 
 app.use(bodyParser.json());
 app.use('/public', express.static(__dirname + '/public'));
